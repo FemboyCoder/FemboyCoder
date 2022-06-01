@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://wakatime.com/@FemboyCoder">
-        <img alt="Wakatime stats" src="https://wakatime.com/badge/user/6dd7b83a-55f5-4fe2-9e42-9cbefb6992c7.svg?style=flat-square">
+        <img alt="Wakatime stats" src="https://wakatime.com/badge/user/FemboyCoder.svg?style=flat-square">
     </a>
 </p>
 

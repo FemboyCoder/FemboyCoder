@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**FemboyCoder/FemboyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://wakatime.com/@FemboyCoder">
+        <img alt="Wakatime stats" src="https://wakatime.com/badge/user/6dd7b83a-55f5-4fe2-9e42-9cbefb6992c7.svg?style=flat-square">
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://discord.com/users/937133870363582515">
+        <img alt="Discord" src="https://lanyard.cnrad.dev/api/956676618645028878?hideBadges=true&hideStatus=true">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/FemboyCoder">
+        <img alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs?username=FemboyCoder&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://wakatime.com/@FemboyCoder">
+        <img alt="Wakatime profile" src="https://github-readme-stats.vercel.app/api/wakatime?username=FemboyCoder&layout=compact&langs_count=3&&theme=dracula&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10">
+    </a>
+</p>

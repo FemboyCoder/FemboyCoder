@@ -1,4 +1,4 @@
-
+<p align="center">What the fuck is a java</p>
 
 <p align="center">
     <a href="https://wakatime.com/@FemboyCoder">
@@ -9,12 +9,6 @@
 <p align="center">
     <a href="https://discord.com/users/937133870363582515">
         <img alt="Discord" src="https://lanyard.cnrad.dev/api/956676618645028878?hideBadges=true&hideStatus=true">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/FemboyCoder">
-        <img alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs?username=FemboyCoder&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
     </a>
 </p>
 

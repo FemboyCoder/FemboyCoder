@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.com/users/1034861347361529966">
-        <img alt="Discord" src="https://lanyard.cnrad.dev/api/1034861347361529966?hideBadges=false&hideStatus=false">
+    <a href="https://discord.com/users/859530750042570802">
+        <img alt="Discord" src="https://lanyard.cnrad.dev/api/859530750042570802?hideBadges=false&hideStatus=false">
     </a>
 </p>
 
